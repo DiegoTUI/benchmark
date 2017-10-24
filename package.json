@@ -1,0 +1,14 @@
+{
+  "name": "benchmark",
+  "version": "0.0.1",
+  "description": "Some microbenchmark tests",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "dependencies": {
+    "underscore": "1.x.x",
+    "stdio": "0.x.x",
+    "benchmark": "2.x.x"
+  }
+}
