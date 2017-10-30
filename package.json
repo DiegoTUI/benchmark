@@ -9,6 +9,8 @@
   "dependencies": {
     "underscore": "1.x.x",
     "stdio": "0.x.x",
-    "benchmark": "2.x.x"
+    "benchmark": "2.x.x",
+    "lutier": "1.x.x",
+    "lru-cache": "4.x.x"
   }
 }
